@@ -10,3 +10,6 @@ python 3.4.3 examples
 [参考文章http://blog.csdn.net/alpha5/article/details/24964009](http://blog.csdn.net/alpha5/article/details/24964009)
 
 sudo easy_install requests
+
+# Base name and Dir name
+![Base and Dir name](./misc/base_dir_name.png)
