@@ -16,14 +16,32 @@ python main.py
 
 ## socket
 
+[参考文章http://blog.163.com/yi_yixinyiyi/blog/static/136286889201152814341144/](http://blog.163.com/yi_yixinyiyi/blog/static/136286889201152814341144/)
+
+### TCP
+
 服务器IP 192.168.7.103
 
 客户端IP 192.168.7.111
 
-在服务器端执行python server.py
+在服务器端执行python tcp_server.py
 
-在客户端执行python client.py
+在客户端执行python tcp_client.py
 
 在客户端输入后可在服务器看到相应内容
 
 ![tcp_socket.png](./tcp_socket.png)
+
+### UDP
+
+服务器IP 192.168.7.103
+
+客户端IP 192.168.7.111
+
+在服务器端执行python udp_server.py
+
+在客户端执行python udp_client.py
+
+在客户端输入后可在服务器看到相应内容
+
+![udp_socket.png](./udp_socket.png)
