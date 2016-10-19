@@ -45,3 +45,13 @@ python main.py
 在客户端输入后可在服务器看到相应内容
 
 ![udp_socket.png](./udp_socket.png)
+
+# How To Use Linux epoll with Python
+
+[参考地址http://scotdoyle.com/python-epoll-howto.html](http://scotdoyle.com/python-epoll-howto.html)
+
+### example1.py 是一个简单的HTTP服务器
+
+![snap1](./example1.png)
+
+### example2.py 对example1.py进行了改进,不断对客户端的请求
