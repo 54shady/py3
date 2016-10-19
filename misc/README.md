@@ -25,3 +25,5 @@ python main.py
 在客户端执行python client.py
 
 在客户端输入后可在服务器看到相应内容
+
+![tcp_socket.png](./tcp_socket.png)
